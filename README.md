@@ -25,11 +25,3 @@ I love converting raw data into useful insights.
 
 ---
 
-# 📊 GitHub Stats:
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Kunalkoli203&show_icons=true&theme=dark)
-
-![Streak](https://streak-stats.demolab.com?user=Kunalkoli203&theme=dark)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalkoli203&layout=compact&theme=dark)
