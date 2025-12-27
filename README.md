@@ -26,10 +26,10 @@ I love converting raw data into useful insights.
 ---
 
 # 📊 GitHub Stats:
-## 📊 GitHub Stats:
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunalkoli203&show_icons=true&theme=dark&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kunalkoli203&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kunalkoli203&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalkoli203&layout=compact&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=Kunalkoli203&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalkoli203&layout=compact&theme=dark)
